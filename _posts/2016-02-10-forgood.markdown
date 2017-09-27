@@ -1,0 +1,11 @@
+---
+title: "ForGood"
+layout: post
+date: 2016-02-10 00:10
+tag: mobile
+projects: true
+description: "Designed and built this mobile survey tool for nonprofit impact reporting. It is meant to be used in countries where internet is not widely available."
+technology: "React Native, iOS, Android, ES6, Javascript"
+link: "http://forgood.org"
+img: /assets/images/forgood.jpg
+---
