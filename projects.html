@@ -17,7 +17,7 @@ title: Projects
     {% if post.projects %}
       <div class="project home__sections-single {% if post.star == true %}star{% endif %}">
         <img src="{{ base }}/{{ post.img }}" alt="Project Image" />
-        <h3><a href="{{ post.link }}">{{ post.title }}</a></h3>
+        <h3><a href="{{ post.link }}" target="_blank">{{ post.title }}</a></h3>
         <p>{{ post.description }}</p>
         <p>Technologies Used: {{ post.technology }}</p>
         <br />
