@@ -1,16 +1,15 @@
-name: Zachary Zimbler
-bio: 'Developer, Adventurer, Music Lover'
-picture: '/assets/images/profile.jpg'
+name: Cam Beaury
+bio: 'Engineer, Entrepreneur, Adventurer'
+picture: '/assets/images/profile.png'
 
-#url: http://zzimbler.com
 url:
 permalink: /:title/
 
-twitter: zzimbler
-instagram: zzimbler
-linkedin: zzimbler
-github: zzimbler
-email: zachzimbler@gmail.com
+twitter: jcbeaury
+instagram: jcbeaury
+linkedin: jcbeaury
+github: jcbeaury
+email: jcbeaury@gmail.com
 
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor]
 

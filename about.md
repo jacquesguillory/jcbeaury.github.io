@@ -11,8 +11,10 @@ img { width: 50%; margin: 0 auto; display: block; }
 
 ![Profile Image]({{ base }}/{{ site.picture }})
 
-<h3 style="text-align: center;">Hi, I'm Zach</h3>
-<p>I'm a software engineer, avid adventurer, live music lover, marathoner, ironman drop out, and newbie rock climber.<p>
+<h3 style="text-align: center;">Hi, I'm Cam.</h3>
+<p>
+  I'm a software engineer, entrepreneur, skier, surfer, and bagel lover. I enjoy working with passionate people and delivering quality software.
+</p>
 
 <br />
 <p style="text-align: center;">Checkout My <a href="{{ base }}/projects">Projects</a></p>

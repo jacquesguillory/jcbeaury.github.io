@@ -69,4 +69,4 @@ projects: true
 
 ## License
 
-[MIT](http://zzimbler.mit-license.org/) License © Zachary Zimbler
+[MIT](http://jcbeaury.mit-license.org/) License © Cam Beaury
