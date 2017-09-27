@@ -4,8 +4,8 @@ layout: post
 date: 2016-02-11 00:10
 tag: mobile
 projects: true
-description: "Mobile Survey Tool for Monitoring & Evaluation and Nonprofit Impact Reporting"
-technology: "React Native, React.js, iOS, Android, ES6, Javascript, Git"
+description: "Mobile survey tool for nonprofit impact reporting. Designed for tablets and meant to be used in countries where internet is not widely available."
+technology: "React Native, iOS, Android, ES6, Javascript"
 link: "http://forgood.org"
 img: /assets/images/forgood.jpg
 ---

@@ -1,0 +1,11 @@
+---
+title: "Insurance Skout"
+layout: post
+date: 2016-02-13 00:10
+tag: desktop
+projects: true
+description: "Cofounded a software company in the health insurance space. Built an intelligent quoting system to help health insurance brokers quote prices for their customers in real time. Led backend develpment and managed a group of 4 people."
+technology: "Ruby on Rails, PostgreSQL, Go, Elasticsearch, Angular.js, Firebase, Javascript, HTML5, CSS3, Heroku, AWS"
+link: "http://www.insuranceskout.com"
+img: /assets/images/skout.jpg
+---
